@@ -111,11 +111,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775810,
-        "narHash": "sha256-Q7jBAWK42rOI+ycHvzssHPkf/HfQk1wU+ZehmnO7uzg=",
+        "lastModified": 1669431088,
+        "narHash": "sha256-EvVQhJrwls0UlX/oTsJGJPlCN62rV5x+NtYzvLKtKsg=",
         "owner": "nim-nix-pkgs",
         "repo": "faststack",
-        "rev": "ae3a215373e3a8afe144a8654eb8a27f53b6cb1d",
+        "rev": "ccfdc7669c82c76d4b12b2f7f71a4f04190acfad",
         "type": "github"
       },
       "original": {
